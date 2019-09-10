@@ -1,0 +1,42 @@
+.nadDiv {
+    display: flex;
+    flex-direction: row;
+}
+
+.silosKontejner {
+    display: flex;
+    flex-direction: row;
+}
+
+.ostatakKontejner {
+    display: flex;
+    flex-direction: column;
+    margin: 70px;
+}
+
+.silosPoseban {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.okvir {
+    border: solid black 1px;
+    height: 200px;
+    width:75px;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.uboji {
+    background-color: red;
+}
+
+.zaSelect {
+    display: flex;
+    flex-direction: row;
+}
+
+.selekt {
+    margin-left: 4px;
+}
